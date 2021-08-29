@@ -1,2 +1,2 @@
 # trafficX
-We made this website for our project TrafficX --- Traffic Control -- SC205 
+I made this website for my project TrafficX --- Traffic Control -- SC205 
